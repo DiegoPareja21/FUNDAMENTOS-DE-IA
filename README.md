@@ -13,7 +13,7 @@ Repositorio académico que contiene mis prácticas de la asignatura Fundamentos 
 
 ## 📚 Contenido por Práctica
 
-### Práctica 1: [Título breve]
+### Práctica 1: Aprendizaje básico
 - Algoritmos implementados: 
   - Búsqueda no informada (DFS, BFS)
   - Búsqueda heurística (A*)
