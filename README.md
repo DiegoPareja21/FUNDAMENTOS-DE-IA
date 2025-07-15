@@ -34,8 +34,4 @@ Repositorio académico que contiene mis prácticas de la asignatura Fundamentos 
 - Clasificación de MNIST
 - Procesamiento de lenguaje natural
 
-## 🚀 Cómo Ejecutar
-1. Clonar repositorio:
-```bash
-git clone https://github.com/DiegoPareja21/FUNDAMENTOS-DE-IA.git
-cd FUNDAMENTOS-DE-IA
+
